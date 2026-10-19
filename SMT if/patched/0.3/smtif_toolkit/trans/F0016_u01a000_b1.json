@@ -1,0 +1,12 @@
+{
+ "0": "{ff02}Cook 1: We make the food\nthat Orcus eats.{ff01}{ff02}Cook 2: Orcus eats lots and lots,\nso we're really, really busy.{ff01}{ff02}Orcus's Voice: ",
+ "1": "Gimme food! Gimme food!\nGimme gimme, hurry!\nI'm starvin'! Vooooo!{ff01}",
+ "2": "{ff02}Cook 1: Hey, Orcus finished\nhis meal again!{ff01}{ff02}Cook 2: Okay, let's take the next\ndish to Orcus!{ff01}{ff02}Cooks 1 & 2: Take it, take it,\ntake the finished dish,\ntake it to him!{ff01}",
+ "3": "{ff02}Cook 1: Hey, Orcus is gone,\nso now we've got nothing to do.{ff01}",
+ "4": "{ff02}Cook 2: Well, we're tired, so\nlet's take it easy for a while.{ff01}",
+ "5": "{ff02}> ",
+ "6": "Use {ff1b}?",
+ "7": "{ff02}> {ff04} used\n{ff1b}.{ff01}{ff02}{ff04} and the others shrank\nand hid themselves in the food.{ff01}",
+ "8": "{ff02}Wheee! Here it comes, here it comes!\nGonna eat, gonna eat, gonna eat!\nWoooh! Gwoh-gwoh-gwoh...{ff01}",
+ "9": "{ff02}> {ff04} and the others\nentered Orcus's body.{ff01}"
+}

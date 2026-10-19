@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Disc images, memory cards, save states: never commit game data
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+*.mcd
+*.pst
+
+# Native kit build output (contains code recompiled from the disc)
+**/disc/
+**/build/
+**/generated/
+**/saves/
+**/psxrecomp/
+**/recomp-ui/
+SMTif_Recompiled
+keybinds.ini
+play.command

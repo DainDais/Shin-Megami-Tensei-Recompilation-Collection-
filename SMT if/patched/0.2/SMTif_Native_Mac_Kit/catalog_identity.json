@@ -1,0 +1,48 @@
+{
+  "format_version": 1,
+  "game": {
+    "name": "SMTif",
+    "id": "SLPM-87153",
+    "boot_exe": "SLPM_871.53"
+  },
+  "marketing": {
+    "description": "",
+    "publisher": "",
+    "year": "",
+    "region": "Japan",
+    "players": 1
+  },
+  "rom_identity": {
+    "cue_name": "SMTif.cue",
+    "bin_name": "SMTif.bin",
+    "track_counts": [
+      1
+    ],
+    "require_cue": true,
+    "data_track": {
+      "size": 256417392,
+      "md5": "5d8d212a4d4bbc107bafeef8aa0d1596",
+      "sha1": "969281ffcee824b3f592d0fad75e29d6a2f2a71b",
+      "crc32": "137c1a05"
+    },
+    "disc_fp": "5c2b658c6516f596db3c0c34ff26de64ba4e90632cb77083e46e7c41441b2701"
+  },
+  "exe": {
+    "load_address": "0x80010000",
+    "entry_pc": "0x800C680C",
+    "text_size": "0x00107800",
+    "stack_base": "0x801FFFF0"
+  },
+  "seeds": {
+    "count": 2014,
+    "source": "boot_exe_jal"
+  },
+  "warnings": [
+    "cue has only 1 TRACK \u2014 Track-01-only dumps fail multi-track netplay/catalog gates; prefer a full Redump cue."
+  ],
+  "notes": [
+    "entry_pc/load_address/text_size/stack_base taken from PS-X EXE header.",
+    "seeds are first-pass boot-EXE JAL targets (+ entry); expect to grow as overlays / runtime paths are discovered.",
+    "required_disc_fp is psxrecomp-toc-v1 (matches runtime DiscIdentity)."
+  ]
+}

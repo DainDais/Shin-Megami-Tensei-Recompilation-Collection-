@@ -1,0 +1,12 @@
+{
+ "_note": "Title-screen memory card prompts (code overlay F0088, string table @0x42B4).",
+ "0": "Checking the Memory Card...{ff03}Do not remove the Memory Card{ff03}or controller.",
+ "1": "The Memory Card is not formatted.",
+ "2": "A Memory Card was removed.",
+ "3": "The Memory Card is not recognized.{ff03}Check that it is inserted{ff03}correctly.",
+ "4": "No Memory Card has a free block.{ff03}Saving needs at least 1 free block.{ff03}Continue the game anyway?",
+ "5": "No Memory Card is inserted.{ff03}Saving needs at least 1 free block.{ff03}Continue the game anyway?",
+ "6": "If you have SMT if... clear data,{ff03}the game may change.{ff03}Load clear data?{ff72}",
+ "7": "Checking the Memory Card...{ff03}Do not remove the Memory Card{ff03}or controller.",
+ "8": "Slot{ff71}"
+}

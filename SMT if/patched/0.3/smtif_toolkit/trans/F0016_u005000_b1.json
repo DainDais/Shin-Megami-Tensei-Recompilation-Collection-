@@ -1,0 +1,18 @@
+{
+ "0": "Mr. Yahata: {ff04}, is it?\nHow can you stay so calm?{ff01}{ff02}I just... I don't know\nwhat to do anymore...{ff01}{ff02}And I only just bought a new\nlaptop with my bonus, too...{ff01}{ff02}No, this is no time to worry about that.\n...Ugh, I'm a failure as a teacher.\nI can't do a thing at a time like this...{ff01}{ff02}What am I supposed to do...{ff01}",
+ "1": "Mr. Yahata: Oh, {ff04}.\nSorry I lost my head earlier.\nDid you need something?{ff01}{ff02}...What? You want to borrow\nmy laptop? ...Well, I mean... that's...\nCome on, give me a break.{ff01}{ff02}",
+ "2": "Reiko: Please, Mr. Yahata.\nWe need to borrow it.{ff01}",
+ "3": "Yumi: C'mon, Mr. Yahata,\nlend it to us. Pretty please?{ff01}",
+ "4": "Charlie: Hey, Yahata, just lend it\nalready. What's the big deal? You're\njust sittin' there scared anyway.{ff01}",
+ "5": "Akira: ...Teacher... lend it to us...{ff01}",
+ "6": "{ff02}Mr. Yahata: All right.",
+ "7": " I can't lend\nyou my laptop, but I can lend you\nsomething even better.{ff01}{ff02}It's a special arm-terminal\ncomputer I built myself.{ff01}{ff02}Truth is, I saw a boy with a husky\nwho had something just like it,\nand I thought it looked so cool.{ff01}{ff02}But once I'd built it,\nI couldn't bring myself to wear it...\nToo embarrassing at my age...{ff01}{ff02}But it'll suit you just fine.\nPerformance-wise, it's flawless.\nHere, you can borrow it.{ff01}{ff02}I gave it all sorts of features,\nso it's really handy.{ff01}{ff02}> {ff04} got\nthe Arm Terminal.{ff01}{ff02}Auto-mapping, Auto-recovery\nand Analyze are now available.{ff01}",
+ "8": "{ff02}Reiko: So if you run the program on it,\nwe can make demons our allies\nand summon them?{ff01}",
+ "9": "Yumi: So now we can use the\ndemon summoning program? I'm hopeless\nwith machines, so I don't really get it.{ff01}",
+ "10": "Charlie: Does that thing even work?\nA shady disk from Sato in some\njunk machine Yahata slapped together?{ff01}",
+ "11": "Akira: ...So we've got\na computer now...{ff01}{ff02}The old man should be back by now.\nLet's go to the custodian's office...{ff01}",
+ "12": "{ff02}> {ff04} installed\nthe summoning program\non the Arm Terminal.{ff01}{ff02}You can now talk to\nand summon demons.{ff01}",
+ "13": "Mr. Yahata: So how's my special\nArm Terminal working out?{ff01}",
+ "14": "Mr. Yahata: Oh, when is\nhelp ever going to come...{ff01}",
+ "15": "Mr. Yahata: Well? My special Arm\nTerminal was great, wasn't it? Truth\nbe told, I was really proud of it.{ff01}{ff02}Yumi: ...I'll be honest, Mr. Yahata.\nIt was on the fritz all the time...{ff01}{ff02}Mr. Yahata: Right! Next I'll build\nan even better Arm Terminal!{ff01}{ff02}Yumi: Hey, {ff04},\nlet's just go...{ff01}"
+}

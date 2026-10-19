@@ -1,0 +1,6 @@
+2f1 uncertain: 柔 vs 渋 (check in context)
+376 uncertain: 船 vs 繊 (check in context)
+456 uncertain: 倍 vs 培 (check in context)
+535 uncertain: 慮 vs 虜 (check in context)
+RESOLVED by context: 456=倍 (２倍), 535=慮 (遠慮), 55d=傲 (傲慢界), 55e=憑 (憑く), 564=貪 (貪欲), 561=睨, 566=騙
+Unverified (not used in dialogue): 2f1 柔?, 376 船?, 55c 捏?, 55f 檜?, 560 痺?, 562 礫?, 563 罹?, 565 褻?

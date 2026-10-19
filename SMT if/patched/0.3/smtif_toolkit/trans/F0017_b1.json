@@ -1,0 +1,15 @@
+{
+ "_note": "Ally farewell lines (F0017 block @0x1000).",
+ "0": "{ff18}: Fighting at your side{ff03}was a pleasure for me too.{ff03}Now, farewell.{ff01}",
+ "1": "{ff18}: I stuck with a human{ff03}this long, so be grateful.{ff03}Later.{fffe}See you around.{ff01}",
+ "2": "{ff18}: Hee-ho!!{ff03}{ff04}, is this goodbye?{ff03}Take care, okay!{fffe}Bye-bye-hoo!{ff01}",
+ "3": "{ff18}: OUR TIME{fffe}WAS SHORT,{ff03}BUT{fffe}I WILL NOT FORGET YOU.{ff03}FAREWELL!{ff01}",
+ "4": "{ff18}: Is it all right to end{ff03}my protection of you here?{ff03}Then I take my leave.{fffe}Goodbye.{ff01}",
+ "5": "{ff18}: So I must part with you,{ff03}to whom I swore loyalty.{fffe}Until we{ff03}meet again. Farewell.{ff01}",
+ "6": "{ff18}: I shall never forget{ff03}you, who fought by my side.{ff03}Farewell...{ff01}",
+ "7": "{ff18}: I shan't forget thee,{ff03}so do not forget me either.{ff03}Farewell.{ff01}",
+ "8": "{ff18}: I think I've fallen{ff03}for you a little.{ff03}Let's meet again... Bye!{ff01}",
+ "9": "{ff18}: I don't wanna leave!{ff03}But I guess this is goodbye. Thanks{ff03}for being nice to me.{fffe}Bye-bye!{ff01}",
+ "10": "{ff18}: So dis is where{ff03}we part wayzz.{fffe}Goodbyezz...{ff03}Urrrghh!{ff01}",
+ "11": "{ff18}: I had fun with you.{ff03}Thanks for the memories.{ff03}See ya!{fffe}Bye-bye!{ff01}"
+}

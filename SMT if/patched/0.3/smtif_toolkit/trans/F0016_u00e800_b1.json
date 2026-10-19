@@ -1,0 +1,22 @@
+{
+ "0": "{ff02}> Connecting Corridor\nIt leads to the school building...{ff01}{ff02}",
+ "1": "> There are traces of a strange\nritual here...{ff01}",
+ "2": "{ff02}Reiko: Let's search it.{ff01}",
+ "3": "Yumi: Let's try searching it, anyway.{ff01}",
+ "4": "Charlie: Let's take a look.{ff01}",
+ "5": "{ff02}> You search the ritual site...{ff01}",
+ "6": "{ff02}You found {ff1b}.{ff01}",
+ "7": "{ff02}Demon Emperor's Voice: ...Seems\nyou found it. You may keep it.{ff01}{ff02}Once you leave the school for the\nDemon World, you'll come right to\nthe \"Chamber of Seals.\"{ff01}{ff02}Use {ff1b} there, and\nthe seal will open a little.{ff01}{ff02}",
+ "8": "But for your school to return to\nthe original world, you must of\ncourse break the seal completely.{ff01}{ff02}Even your feeble brains\n",
+ "9": "But it won't open wide enough for\nyou to leave the Demon World.{ff01}{ff02}You'll need more rings. Surely\neven your meager intellects\n",
+ "10": "must understand that.{ff01}{ff02}But first, you must defeat\n{ff18}.{ff01}{ff02}Otherwise, there's nothing to discuss.\nWell then, I wish you luck.\nHa ha ha ha ha ha...{ff01}",
+ "11": "{ff02}{ff6f} got\n{ff1b}.{ff01}",
+ "12": "> Demons will appear... Go outside?",
+ "13": "> Go outside through the emergency exit?",
+ "14": "{ff02}",
+ "15": "{ff02}Reiko: It's like a temple...\n...How like Hazama,\nto build something like this...{ff01}",
+ "16": "{ff02}Yumi: We're finally out of the school.\nSo this is where the real Demon World starts.{ff01}",
+ "17": "{ff02}Charlie: Well, we're outta school and\ninto the Demon World. This is it, {ff04}.\nIf you wanna turn back, now's the time.{ff01}",
+ "18": "{ff02}> Connecting Corridor\nIt leads to the gym...{ff01}{ff02}Go to the gym?",
+ "19": "{ff02}"
+}

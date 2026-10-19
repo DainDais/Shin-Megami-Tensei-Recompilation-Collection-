@@ -1,0 +1,54 @@
+# Shin Megami Tensei if... (SLPM-87153) with the English patch v0.2 applied.
+# build.sh fills in [game].disc after preparing your disc.
+
+[game]
+name = "SMTif"
+id = "SLPM-87153"
+players = 1
+exe = "disc/SLPM_871.53"
+disc = "/Users/daindais/Games/SMT if/SMTif_Native_Mac_Kit/disc/SMTif.cue"
+load_address = "0x80010000"
+entry_pc = "0x800C680C"
+text_size = "0x00107800"
+stack_base = "0x801FFFF0"
+
+# Digests are for data Track 01 (first BINARY FILE / TRACK 01).
+[prepare_disc]
+out_dir = "disc"
+bin_name = "SMTif.bin"
+cue_name = "SMTif.cue"
+boot_exe = "SLPM_871.53"
+known_sizes = [256417392]
+known_md5 = [
+  "5d8d212a4d4bbc107bafeef8aa0d1596",
+]
+known_sha1 = [
+  "969281ffcee824b3f592d0fad75e29d6a2f2a71b",
+]
+known_crc32 = [
+  "137c1a05",
+]
+
+[recompiler]
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+window_title = "SMTif Recompiled"
+memcard_dir = "saves"
+overlay_cache = true
+
+[video]
+renderer = "opengl"
+aspect_ratio = "4:3"
+
+[controller]
+default_mode = "digital"
+
+# Online mount gate: digests + track count + optional TOC fingerprint
+# (see docs/NETPLAY.md).
+[netplay]
+require_cue = true
+required_tracks = 1
+required_disc_fp = "5c2b658c6516f596db3c0c34ff26de64ba4e90632cb77083e46e7c41441b2701"

@@ -1,0 +1,16 @@
+{
+ "0": "{ff02}...But your inventory is full,\nso you couldn't carry it.{ff01}",
+ "1": "Seems like nobody's here...{ff01}",
+ "2": "> Sumo Club Room{ff01}{ff02}Boy: I hung my mawashi out to dry\ntoday... What happened to it?{ff01}",
+ "3": "{ff02}> Search the club room?",
+ "4": "{ff02}{ff6f} got\n{ff1b} x2.{ff01}",
+ "5": "Boy: Heh heh, listen to this!\nThe sumo club got a new member!\nOur new recruit, Hee-Ho!{ff01}",
+ "6": "{ff02}Hee-Ho: Hee-ho!\nThey let me join the sumo club!\nI'm so happy, hee-ho!{ff01}{ff02}Good high-schoolers have to\ndo club activities, right?\nHee-ho! But what's sumo?{ff01}",
+ "7": "Boy: Come to think of it, didn't\nyou take {ff1b}\nfrom here?{ff01}{ff02}That actually belongs to a senior,\nso I'm in big trouble if it's lost.{ff01}",
+ "8": "{ff02}My mawashi went missing too, so\nnobody's noticed yet, but...{ff01}",
+ "9": "{ff02}Ah! Th-That's\n{ff1b}!\nWhere did you find it?{ff01}",
+ "10": "{ff02}As thanks for finding it,\nI'll give you {ff1b}.{ff01}",
+ "11": "{ff02}...Or I would, but your\ninventory's full.\nGo make some room.{ff01}",
+ "12": "Boy: Hey, do you know where\nHee-Ho went?{ff01}",
+ "13": "Boy: My mawashi's back, too.\nWhat a relief. Thanks, you two.\nNow, time to recruit members!{ff01}"
+}

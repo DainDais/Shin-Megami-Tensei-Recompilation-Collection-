@@ -1,0 +1,21 @@
+{
+ "0": "Voice: ...Wake up!{ff01}{ff02}{ff04}...\nHey, {ff04}...\n...School's already out.{ff01}",
+ "1": "{ff02}Boy: ...You were really out cold.\nI keep having weird, scary dreams lately,\nso I can't sleep at all.{ff01}{ff02}Well, I'm heading home.{ff01}",
+ "2": "Voice: ...Hey, how long are you gonna sleep?{ff01}{ff02}{ff04}...{ff04}\n...School's already out.{ff01}",
+ "3": "{ff02}Girl: ...You sure slept well.\nI keep having weird, scary dreams lately,\nso I can hardly sleep. I'm jealous.{ff01}{ff02}I'm heading home. See ya.{ff01}",
+ "4": "{ff02}> The classroom, after school.\nOnly a few students remain...{ff01}",
+ "5": "{ff02}Boy's Voice: Wh-What the...!?{ff01}{ff02}Girl's Voice: Eeeek!!{ff01}",
+ "6": "{ff02}Boy: We have to get out of here!{ff01}",
+ "7": "{ff02}Girl: Eeeek! What!? What!?\nWhat's going on!?{ff01}",
+ "8": "{ff02}Boy: Something's wrong outside!\nIt's not night, but it's pitch-black!{ff01}",
+ "9": "{ff02}Girl: Wh- Wh- Wh- What do we do!?{ff01}",
+ "10": "{ff02}> Class 2-D has fallen into a panic.{ff01}",
+ "11": "{ff02}Girl's Voice: {ff04}!\nSo you were still in the classroom!{ff01}",
+ "12": "{ff02}> Yumi Shirakawa, from your class,\nsuddenly calls out to you.{ff01}{ff02}Yumi: I've been looking for you.\nI need to talk to you, {ff04}.{ff01}{ff02}Listen... All of us are\ntrapped inside the school.{ff01}{ff02}And something's wrong outside, too.\nIt's like the whole school got\nthrown into another world.{ff01}{ff02}I have a bad feeling about this.\nIf this keeps up, we won't get out okay...\nNo, it's worse than that.{ff01}{ff02}",
+ "13": "We have to do something.\nOtherwise nobody's going to make it...\nThat's what my gut tells me.{ff01}{ff02}Please! Lend me a hand!\nTo save the school... to save everyone...{ff01}{ff02}{ff04},\ncome with me.{ff01}{ff02}> Yumi",
+ "14": " asks you to come along.\nWill you?",
+ "15": "{ff02}Yumi",
+ "16": " joined the party!{ff01}",
+ "17": "{ff02}Yumi: Thanks! Let's go right away.\nWe have to hurry...{ff01}",
+ "18": "{ff02}Yumi: Right... I guess you can't decide\nsomething like this out of nowhere.{ff01}{ff02}Go look around the school\nand see what's going on.\nBut we don't have much time.{ff01}"
+}

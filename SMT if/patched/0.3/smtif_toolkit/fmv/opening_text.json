@@ -1,0 +1,16 @@
+{
+  "_comment": "English for the attract-mode text scroll in D/F0099.BIN (one entry per Japanese line; y = top row on the scrolling page, x = left edge).",
+  "lines": [
+    {"y": 200, "x": 20, "text": "......A peaceful, ordinary life......"},
+    {"y": 217, "x": 20, "text": "......Dull days, one after another......"},
+    {"y": 233, "x": 20, "text": "......The days of youth drift by......"},
+    {"y": 262, "x": 17, "text": "But what if......"},
+    {"y": 279, "x": 17, "text": "it all came crashing down?"},
+    {"y": 309, "x": 17, "text": "What if......"},
+    {"y": 325, "x": 17, "text": "your school were hurled"},
+    {"y": 342, "x": 57, "text": "into another world?"},
+    {"y": 370, "x": 16, "text": "......This is......"},
+    {"y": 387, "x": 16, "text": "the story of a boy and a girl"},
+    {"y": 404, "x": 16, "text": "who strayed into the Demon World......"}
+  ]
+}

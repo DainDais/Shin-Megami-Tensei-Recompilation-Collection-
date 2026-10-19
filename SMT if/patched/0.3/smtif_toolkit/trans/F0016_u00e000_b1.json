@@ -1,0 +1,10 @@
+{
+ "0": "Custodian: I went outside to sweep\nthe front entrance, and the sky\nsuddenly went dark.{ff01}{ff02}I rushed right back inside.{ff01}",
+ "1": "Custodian: Making a man my age dig\nso many holes... What a nightmare.{ff01}",
+ "2": "Akira: ...Not here, huh...{ff01}",
+ "3": "Custodian: Oh, if it ain't Akira.\nSomethin' terrible's gone and\nhappened, huh.{ff01}{ff02}No use flailin' about.\nHave some tea and calm down.{ff01}{ff02}...By the way, Akira,\nyou think it over yet?\nAbout takin' up boxing?{ff01}{ff02}You'd be a champ, no doubt about it.\nLet's aim for the top of the\nworld together, eh?{ff01}{ff02}Akira: ...Idiot. Not doin' it...{ff01}{ff02}Custodian: ...I see... Anyway,\nwhat brings you here today?{ff01}{ff02}Akira: ...I wanna get out of the\nschool. Open the manhole for me,\nold man...{ff01}{ff02}Custodian: So you wanna get out.\nSure thing. Anything for you...\nBut you gonna be all right?{ff01}{ff02}> Enter the manhole?",
+ "4": "{ff02}Custodian: Normally it leads\noutside, but... be careful\nout there.{ff01}{ff00}{ff02}",
+ "5": "Akira: ...Let's go. If we drag\nour feet, things'll get ugly.{ff01}{ff02}> {ff04} and the others\nentered the manhole in the\ncustodian's office.{ff01}",
+ "6": "{ff02}Akira: ...If we go through here...\n...it should lead outside...{ff7c}{ff7c}Whoa!{ff7c}{ff7c}",
+ "7": "{ff02}Akira: ...What is this place?\nWe came out somewhere weird...{ff01}"
+}

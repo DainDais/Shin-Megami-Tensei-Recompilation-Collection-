@@ -1,0 +1,19 @@
+{
+ "0": "Boy: Hey, you're {ff04}\nfrom 2-D, right? You're sure calm.{ff01}{ff02}I'm Shinji Kuroi.\nEveryone calls me Charlie.\nNice to meet ya.{ff01}{ff02}You figurin' on bustin'\nout of this school somehow?{ff01}{ff02}",
+ "1": "Charlie: ",
+ "2": "I'm gettin' outta\nhere on my own.{ff01}{ff02}Everybody's runnin' around in a panic,\nand the rest figure if they sit tight,\nsomeone'll come save 'em.{ff01}{ff02}But you ain't either type, huh?\nThen maybe I'll team up with ya.\nWhat do you say?{ff01}{ff02}> Charlie",
+ "3": " asks you to come along.\nWill you?",
+ "4": "{ff02}Charlie",
+ "5": " joined the party!{ff01}",
+ "6": "{ff02}Charlie: All right, it's settled.\nLet's get movin' together.{ff01}",
+ "7": "{ff02}Seems some kinda freaky monsters\nare showin' up, so I grabbed some\nstuff we can use as weapons.{ff01}",
+ "8": "{ff02}{ff6f} got\n{ff1b}.{ff01}",
+ "9": "{ff02}{ff6f} got\n{ff1b} x2.{ff01}",
+ "10": "{ff02}...But your inventory is full,\nso you couldn't carry it.{ff01}",
+ "11": "{ff02}Charlie: Grab the stuff and let's go.{ff01}",
+ "12": "{ff02}Charlie: I see... Come find me once\nyou've made up your mind. I'll hang\naround here a little longer.{ff01}{ff02}But if you don't make a move\nyourself, you'll be stuck in this\nschool forever.{ff01}",
+ "13": "Charlie: Ain't no guarantee the school's\ngonna stay safe like this.{ff01}",
+ "14": "Girl: There are traces of some occult\nritual in the gym.\nI wonder who did it.{ff01}",
+ "15": "Girl: Did you know? The gym's turned\ninto a \"Cathedral of Shadows\"\nor something.{ff01}{ff02}It says to bring your demons, but\nhow are you supposed to make demons\nyour allies and bring them?{ff01}",
+ "16": "Girl: Where did those demons go?{ff01}"
+}

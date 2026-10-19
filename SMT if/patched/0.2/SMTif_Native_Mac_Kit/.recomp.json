@@ -1,0 +1,13 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "SMTif",
+  "system": "PS1",
+  "type": "recomp",
+  "toolchain": "psxrecomp",
+  "status": "exploring",
+  "project": "SMTifRecomp",
+  "original": {
+    "region": "Japan",
+    "serial": "SLPM-87153"
+  }
+}

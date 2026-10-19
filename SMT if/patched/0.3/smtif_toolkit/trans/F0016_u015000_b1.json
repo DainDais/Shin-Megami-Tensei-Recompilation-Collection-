@@ -1,0 +1,13 @@
+{
+ "0": "> Great Gate of Djoser\n",
+ "1": "The gate is closed.{ff01}",
+ "2": "{ff02}Akira: I see...\nThis thing was here, wasn't it...{ff01}{ff02}",
+ "3": "{ff02}Akira: ",
+ "4": "To open this gate,\nwe need {ff1b}.{ff01}{ff02}{ff1b} should be...\non basement level 2, I think.{ff01}",
+ "5": "Open the gate with {ff1b}?",
+ "6": "{ff18}: Who's there!?\nOpening the gate without\nmy say-so!{ff01}",
+ "7": "{ff02}You know what happens to those\nwho misbehave like this... right!?\nCome here!{ff01}",
+ "8": "{ff18}",
+ "9": ": You... could it be...{ff7c}\nNo... {ff7c}I must inform the Demon\nEmperor...{ff7c}{ff7c}{ff01}",
+ "10": "Go through?"
+}

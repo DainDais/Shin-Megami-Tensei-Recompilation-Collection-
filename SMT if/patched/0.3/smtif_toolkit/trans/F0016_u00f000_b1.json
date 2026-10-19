@@ -1,0 +1,10 @@
+{
+ "0": "{ff02}...But your inventory is full,\nso you couldn't carry it.{ff01}",
+ "1": "> Baseball Club Room{ff01}{ff02}Boy: Lots of students left the school\nto get back to the real world, but\nnone of them ever returned...{ff01}{ff02}...Sounds like the starting village\nin an RPG, huh?{ff01}",
+ "2": "{ff02}> Search the club room?",
+ "3": "{ff02}{ff6f} got\n{ff1b} x2.{ff01}",
+ "4": "{ff02}{ff6f} got\n{ff1b}.{ff01}",
+ "5": "Boy: You've been outside the school\nand come back, over and over?{ff01}",
+ "6": "Boy: ...\"And so, peace returned to\nthe world...\" Is that how it goes?\n...Now that the school's back.{ff01}",
+ "7": "Seems like nobody's here...{ff01}"
+}

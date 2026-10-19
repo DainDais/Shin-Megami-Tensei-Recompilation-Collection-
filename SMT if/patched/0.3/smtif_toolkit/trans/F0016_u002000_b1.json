@@ -1,0 +1,14 @@
+{
+ "0": "> You found a box. Open it?",
+ "1": "{ff04} left the box alone.{ff01}",
+ "2": "The box was empty.{ff01}",
+ "3": "{ff04} opened the box.{ff01}",
+ "4": "{ff02}{ff6f} got\n{ff71} Macca.{ff01}",
+ "5": "{ff02}{ff6f} got\n{ff71} MAG.{ff01}",
+ "6": "{ff02}{ff6f} got\n{ff1b}.{ff01}",
+ "7": "Oh no! It's a trap!!{ff01}",
+ "8": "{ff02}{ff6f}\ntook damage.{ff01}",
+ "9": "{ff02}{ff70}\nwas poisoned.{ff01}",
+ "10": "{ff02}{ff70} was startled and\nfled back into the COMP.{ff01}",
+ "11": "{ff02}{ff6f} found\n{ff1b}.{ff01}{ff02}...But your inventory is full,\nso you couldn't carry it.{ff01}"
+}

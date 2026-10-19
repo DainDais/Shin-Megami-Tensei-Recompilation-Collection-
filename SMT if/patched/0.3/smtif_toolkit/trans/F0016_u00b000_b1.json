@@ -1,0 +1,15 @@
+{
+ "0": "Ms. Kayama: {ff04} from 2-D",
+ "1": "",
+ "2": "",
+ "3": "?\nWhat brings you to the nurse's office?{ff01}{ff02}...Though I suppose this is\nno time to be asking that.{ff01}{ff02}I have no idea what on earth\nhas happened. Have you figured\nanything out?{ff01}{ff02}",
+ "4": "Ms. Kayama: ",
+ "5": "If you're feeling unwell,\nI'll fix you right up.{ff01}",
+ "6": "{ff02}> {ff6f}\nrecovered.{ff01}{ff02}Ms. Kayama: Please be careful.\nDon't do anything dangerous.{ff01}",
+ "7": "{ff02}I'm worried about you,\nso take this...{ff01}",
+ "8": "{ff02}> {ff04} got\n{ff1b}.{ff01}",
+ "9": "All I want is for everyone at school\nto be safe. So... please don't\npush yourself too hard.{ff01}",
+ "10": "Everyone suddenly vanished.\nThere's nobody left.\nI'm so glad you two are all right.{ff01}{ff02}",
+ "11": "Ms. Kayama: Hazama confided his\ntroubles in me.{ff01}{ff02}I wish I'd listened to him\nmore seriously.{ff01}",
+ "12": "Ms. Kayama: {ff04}, Yumi,\nyou both worked so hard.\nThank you for saving us all.{ff01}"
+}
